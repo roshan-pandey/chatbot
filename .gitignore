@@ -1,0 +1,5 @@
+/dataset*
+/chatbot_env/*
+.vscode/*
+db.sqlite3
+sentence_tokenizer.pickle
